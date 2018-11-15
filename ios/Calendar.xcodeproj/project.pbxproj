@@ -5,6 +5,7 @@
 	};
 	objectVersion = 46;
 	objects = {
+
 /* Begin PBXBuildFile section */
 		00989AC244E74A5BA7FACD61 /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 1EBC781D08B643678B0BBC46 /* FontAwesome.ttf */; };
 		00C302E51ABCBA2D00DB3ED1 /* libRCTActionSheet.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 00C302AC1ABCB8CE00DB3ED1 /* libRCTActionSheet.a */; };
@@ -45,7 +46,6 @@
 		67AD3C3D4D28406D88472F6F /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A3AFEE9CAC914285853F485D /* Foundation.ttf */; };
 		6963E7106F29460C9DED4FE6 /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = ED37E76CCA6145978575608F /* Octicons.ttf */; };
 		6C12A82876014D31BABC1217 /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 80C001B2B7A343179965E927 /* MaterialIcons.ttf */; };
-		719CDCFE256148F4B5C0D783 /* libimageCropPicker.a in Frameworks */ = {isa = PBXBuildFile; fileRef = B40528AE02E345388047DFAD /* libimageCropPicker.a */; };
 		7F4146A5DE014586B3FC856F /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9EBEAD0697964EA1920DBCDB /* MaterialCommunityIcons.ttf */; };
 		832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 832341B51AAA6A8300B99B32 /* libRCTText.a */; };
 		89B7EE9531B04E5FA64615A1 /* rubicon-icon-font.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EA8881BB294E4175944C5DC1 /* rubicon-icon-font.ttf */; };
@@ -434,7 +434,6 @@
 				832341BD1AAA6AB300B99B32 /* libRCTText.a in Frameworks */,
 				00C302EA1ABCBA2D00DB3ED1 /* libRCTVibration.a in Frameworks */,
 				139FDEF61B0652A700C62182 /* libRCTWebSocket.a in Frameworks */,
-				719CDCFE256148F4B5C0D783 /* libimageCropPicker.a in Frameworks */,
 				4065C8E65CA74203A11CBBDB /* libRNVectorIcons.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

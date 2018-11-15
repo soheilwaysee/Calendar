@@ -34,7 +34,7 @@ Switch.propTypes = {
   }).isRequired,
   field: PropTypes.shape({
     name: PropTypes.string.isRequired,
-    value: PropTypes.bool.isRequired
+    value: PropTypes.bool
   }).isRequired
 };
 
